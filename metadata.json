@@ -1,0 +1,8 @@
+{
+  "name": "Ahmar iPOS — International Edition",
+  "description": "Enterprise-grade international Point of Sale system with multi-sector workflows, ultra-fast barcode checkout, split payments, thermal receipts, inventory ledger, and table management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
